@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    background: #ffdf91;
+    font-size: 25px;
+}
+img{
+    border:5px solid black;
+    width: 300px;
+}
+.description{
+    text-align: justify;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    background: #ffdf91;
+    font-size: 25px;
+}
+li{
+    list-style: none;
+}
+.wrap{
+    background: #b69c6c;
+}
+body{
+    margin: 0px;
+}
