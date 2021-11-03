@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    background: #ffdf91;
+    background: darkred;
     font-size: 25px;
 }
 img{
@@ -13,14 +13,17 @@ img{
 }
 h2{
     text-align: center;
-    background: #ffdf91;
+    background: darkred;
     font-size: 25px;
 }
 li{
     list-style: none;
 }
 .wrap{
-    background: #b69c6c;
+    background: silver;
+}
+.item{
+    background: orangered;
 }
 body{
     margin: 0px;
